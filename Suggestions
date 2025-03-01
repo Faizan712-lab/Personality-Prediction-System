@@ -1,0 +1,3 @@
+Use a larger, more diverse dataset for training.
+Integrate advanced NLP models like BERT or SpaCy for more accurate personality predictions.
+Implement multi-file analysis for bulk CV processing.
